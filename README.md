@@ -94,8 +94,7 @@ Multiple Excel tables were imported and evaluated:
 
 ### 📂 PBIX File
 
-Download the `.pbix` file for offline review and edit:  
-📎 `Task 3.pbix`
+Download the `.pbix` file for offline review and edit: `Task 3.pbix`
 
 ---
 
