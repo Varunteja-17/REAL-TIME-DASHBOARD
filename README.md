@@ -82,20 +82,20 @@ Multiple Excel tables were imported and evaluated:
 
 ### ✅ Final Dashboard (Power BI Desktop)
 
-![Dashboard]()
+![Dashboard](https://github.com/Varunteja-17/REAL-TIME-DASHBOARD/blob/main/Dashboard.png)
 
 ---
 
 ### 🔄 Data Load Simulation
 
-![Loading Data]()
+![Loading Data](https://github.com/Varunteja-17/REAL-TIME-DASHBOARD/blob/main/Loading%20data.png)
 
 ---
 
 ### 📂 PBIX File
 
 Download the `.pbix` file for offline review and edit:  
-📎 ``
+📎 `https://github.com/Varunteja-17/REAL-TIME-DASHBOARD/blob/main/Task%203.pbix`
 
 ---
 
